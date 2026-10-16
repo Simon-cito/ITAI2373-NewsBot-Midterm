@@ -6,6 +6,10 @@
 
 ---
 
+>  📺 **Video Demonstration & Walkthrough:** [Watch our 6-minute project walkthrough on YouTube](https://youtu.be/WuYph1LUUjI)
+
+---
+
 ## What It Does
 
 NewsBot reads a news article and, in one step:
